@@ -1,5 +1,5 @@
 # Graph app
-* The goal of project is to write a program that:
+The goal of project is to write a program that:
 * Generate a graph with a given number of columns and rows of nodes and edge weights drawn in a given range of values.
 * Save such a graph to a file
 * Can read a graph from a file
